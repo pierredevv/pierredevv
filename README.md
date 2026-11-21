@@ -72,5 +72,5 @@ Estudiante avanzado de **Ingeniería Informática** en la Universidad Autónoma 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pierredevv&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierredevv&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
